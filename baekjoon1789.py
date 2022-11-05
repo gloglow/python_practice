@@ -1,4 +1,4 @@
-# BAEKJOON  PROBLEM - https://www.acmicpc.net/problem/1781
+# BAEKJOON  PROBLEM - https://www.acmicpc.net/problem/1789
 # 20221104
 
 s=int(input())
