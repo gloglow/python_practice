@@ -1,5 +1,5 @@
 # python_practice
 
-problem solving by using python
-
-https://www.acmicpc.net/
+Programming problem solving practice by using python.
+problems from...
+https://www.acmicpc.net/ (Baekjoon Online Judge)
